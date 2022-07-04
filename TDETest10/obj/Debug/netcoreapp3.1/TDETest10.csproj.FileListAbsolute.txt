@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TDETest10\bin\Debug\netcoreapp3.1\TDETest10.exe
+C:\Users\admin\Desktop\TDETest10\bin\Debug\netcoreapp3.1\TDETest10.deps.json
+C:\Users\admin\Desktop\TDETest10\bin\Debug\netcoreapp3.1\TDETest10.runtimeconfig.json
+C:\Users\admin\Desktop\TDETest10\bin\Debug\netcoreapp3.1\TDETest10.runtimeconfig.dev.json
+C:\Users\admin\Desktop\TDETest10\bin\Debug\netcoreapp3.1\TDETest10.dll
+C:\Users\admin\Desktop\TDETest10\bin\Debug\netcoreapp3.1\TDETest10.pdb
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.AssemblyInfo.cs
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.dll
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.pdb
+C:\Users\admin\Desktop\TDETest10\obj\Debug\netcoreapp3.1\TDETest10.genruntimeconfig.cache

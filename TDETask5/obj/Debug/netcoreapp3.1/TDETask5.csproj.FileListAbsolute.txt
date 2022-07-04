@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.AssemblyInfo.cs
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TDETask5\bin\Debug\netcoreapp3.1\TDETask5.exe
+C:\Users\admin\Desktop\TDETask5\bin\Debug\netcoreapp3.1\TDETask5.deps.json
+C:\Users\admin\Desktop\TDETask5\bin\Debug\netcoreapp3.1\TDETask5.runtimeconfig.json
+C:\Users\admin\Desktop\TDETask5\bin\Debug\netcoreapp3.1\TDETask5.runtimeconfig.dev.json
+C:\Users\admin\Desktop\TDETask5\bin\Debug\netcoreapp3.1\TDETask5.dll
+C:\Users\admin\Desktop\TDETask5\bin\Debug\netcoreapp3.1\TDETask5.pdb
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.dll
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.pdb
+C:\Users\admin\Desktop\TDETask5\obj\Debug\netcoreapp3.1\TDETask5.genruntimeconfig.cache

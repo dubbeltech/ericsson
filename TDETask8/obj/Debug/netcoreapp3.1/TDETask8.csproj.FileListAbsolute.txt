@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.AssemblyInfo.cs
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TDETask8\bin\Debug\netcoreapp3.1\TDETask8.exe
+C:\Users\admin\Desktop\TDETask8\bin\Debug\netcoreapp3.1\TDETask8.deps.json
+C:\Users\admin\Desktop\TDETask8\bin\Debug\netcoreapp3.1\TDETask8.runtimeconfig.json
+C:\Users\admin\Desktop\TDETask8\bin\Debug\netcoreapp3.1\TDETask8.runtimeconfig.dev.json
+C:\Users\admin\Desktop\TDETask8\bin\Debug\netcoreapp3.1\TDETask8.dll
+C:\Users\admin\Desktop\TDETask8\bin\Debug\netcoreapp3.1\TDETask8.pdb
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.dll
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.pdb
+C:\Users\admin\Desktop\TDETask8\obj\Debug\netcoreapp3.1\TDETask8.genruntimeconfig.cache

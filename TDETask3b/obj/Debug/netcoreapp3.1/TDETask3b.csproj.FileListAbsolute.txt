@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.AssemblyInfo.cs
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TDETask3b\bin\Debug\netcoreapp3.1\TDETask3b.exe
+C:\Users\admin\Desktop\TDETask3b\bin\Debug\netcoreapp3.1\TDETask3b.deps.json
+C:\Users\admin\Desktop\TDETask3b\bin\Debug\netcoreapp3.1\TDETask3b.runtimeconfig.json
+C:\Users\admin\Desktop\TDETask3b\bin\Debug\netcoreapp3.1\TDETask3b.runtimeconfig.dev.json
+C:\Users\admin\Desktop\TDETask3b\bin\Debug\netcoreapp3.1\TDETask3b.dll
+C:\Users\admin\Desktop\TDETask3b\bin\Debug\netcoreapp3.1\TDETask3b.pdb
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.dll
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.pdb
+C:\Users\admin\Desktop\TDETask3b\obj\Debug\netcoreapp3.1\TDETask3b.genruntimeconfig.cache
